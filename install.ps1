@@ -1,0 +1,1 @@
+./bin/git-install.ps1
